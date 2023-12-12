@@ -22,3 +22,19 @@ p{
     font-family: 'Montserrat', sans-serif;
     font-size: 14px;
   }
+
+img{
+    width: 100%;
+}
+
+.container .container-row{
+    margin: 5rem auto;
+    width: 600px;
+    border-radius: 10px;
+
+    
+        display: flex;
+        overflow: hidden;
+    
+
+}
